@@ -1,0 +1,30 @@
+An Abstract set of graphics generated with Adobe's Firefly, and the "1-bit-pack" original art-work pack by Kenney.
+
+These images have been generated using the Firefly tool,
+and using the image below as reference:
+
+1bitpack_kenney_1.1.zip::Tilesheet/colored.png
+
+From:
+https://opengameart.org/sites/default/files/1bitpack_kenney_1.1.zip
+
+(this is why Kenney is credited, even if the image looks different)
+
+cde4112c71998afa507f93beda36d61c  1bitpack_kenney_1.1.zip
+c9c73c5a9271b639e552d006dcde3b3e  Tilesheet/colored.png
+
+The terms of use of "Firefly" request that "Firefly" appears in the Credits,
+so attribution should also be given to "Firefly".
+
+The license from the original work has been changed from CC0 to CC-by-sa in
+order to garanty that Firefly is credited as requested by its term of use.
+
+Copyright/Attribution Notice: 
+- Kenney
+- "Adobe Firefly" tool
+- Florent Monnier
+
+License:
+cc-by-sa
+https://creativecommons.org/licenses/by-sa/4.0/
+
