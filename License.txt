@@ -20,7 +20,7 @@ The license from the original work has been changed from CC0 to CC-by-sa in
 order to garanty that Firefly is credited as requested by its term of use.
 
 Copyright/Attribution Notice: 
-- Kenney
+- Kenney Vleugels
 - "Adobe Firefly" tool
 - Florent Monnier
 
